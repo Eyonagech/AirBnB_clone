@@ -277,5 +277,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Adam Debalke** <[adamdebalke](https://github.com/adamdebalke)>
-* **Sofonias Sintayehu** <[sofology](https://github.com/sofology)>
+* **Yonas Getahun Chanyalew** <[Eyonagech](https://github.com/Eyonagech)
+
